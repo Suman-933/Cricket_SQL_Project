@@ -14,7 +14,7 @@ We use SQL queries to extract insights like **top run scorers, best bowlers, str
 - **1st_innings_bowling.csv** → bowling stats for Team 1  
 - **2nd_innings_bowling.csv** → bowling stats for Team 2  
 - **fielding.csv** → catches, stumpings, runouts  
-
+- **Queries.sql** → set of SQL Queries
 ---
 
 
